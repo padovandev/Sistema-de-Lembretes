@@ -1,7 +1,7 @@
 <h1 align="center">💻 Sistema de Lembretes</h1>
 
 <p align="center">
-  Um simples exemplo de um Sistema de Lembretes desenvolvido em Python, como amostra da minha capacidade de utilização de Interface. Para o armazenamento e manipulação de dados, escolhi utilizar Banco de Dados SQL, utilizando a linguagem sqlite3.
+  Um simples exemplo de um Sistema de Lembretes desenvolvido em Python, como amostra da minha capacidade de utilização de Interface. Para o armazenamento e manipulação de dados, escolhi utilizar Banco de Dados SQL, utilizando a linguagem sqlite3. Para a execução da aplicação, execute o App.py em interface!
 </p>
 
 <h1 align="center">📌 Pagina Principal</h1>
